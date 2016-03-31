@@ -39,5 +39,5 @@ import org.apache.spark.h2o._
 val h2oContext = H2OContext.getOrCreate(sc)
 ```
 
-The last line that is output will be the 
+The last line that is output will be the path to your H20 Flow web ui.
 
